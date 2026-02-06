@@ -9,7 +9,7 @@
 ## 2. Project Motivation
 This small, exploratory project aims to:
 
-- pratice data-driven analysis in neuroscience and digital medicine
+- practice data-driven analysis in neuroscience and digital medicine
 - gaining experience working with (clinical biomarker) data
 - gaining experience working with statistical workflows
 
@@ -46,7 +46,7 @@ Key steps:
 - Description and visualization
 - Group-wise comparison
 - Linear regression models adjusting for age, sex and BMI
-(- Additionally: Exploratory examination of genoytype effects)
+(- Additionally: Exploratory examination of genotype effects)
 
 ## 6. Methods Overview
 - Programming language: Python
@@ -56,5 +56,5 @@ Key steps:
 Among others:
 
 - Medication status and disease duration are not available
-- Peripheral BDNF may not directly reflext central nervous system levels
+- Peripheral BDNF may not directly reflect central nervous system levels
 - Sample size limits statistical power
