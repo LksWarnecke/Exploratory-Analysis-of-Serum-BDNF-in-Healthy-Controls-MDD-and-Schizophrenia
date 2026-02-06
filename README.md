@@ -58,3 +58,6 @@ Among others:
 - Medication status and disease duration are not available
 - Peripheral BDNF may not directly reflect central nervous system levels
 - Sample size limits statistical power
+
+TODO:
+-explain what BDNF is and what the "normal" concentration is + what the measurement in the dataset is (mg?)
