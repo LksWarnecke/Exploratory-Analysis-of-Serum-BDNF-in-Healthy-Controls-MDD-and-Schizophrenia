@@ -48,4 +48,13 @@ Key steps:
 - Linear regression models adjusting for age, sex and BMI
 (- Additionally: Exploratory examination of genoytype effects)
 
-## 6.
+## 6. Methods Overview
+- Programming language: Python
+- Libraries: pandas, numpy, matplotlib, seaborn, statsmodels
+
+## 7. Limitations
+Among others:
+
+- Medication status and disease duration are not available
+- Peripheral BDNF may not directly reflext central nervous system levels
+- Sample size limits statistical power
