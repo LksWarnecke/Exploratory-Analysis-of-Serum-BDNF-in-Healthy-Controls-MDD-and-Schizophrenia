@@ -61,3 +61,6 @@ Among others:
 
 TODO:
 -explain what BDNF is and what the "normal" concentration is + what the measurement in the dataset is (mg?)
+-01 -> BMI plot
+-01 -> relationship plot between columns
+-01 -> summary of viewed data
