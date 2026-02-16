@@ -45,12 +45,10 @@ Key steps:
 
 - Description and visualization
 - Group-wise comparison
-- Linear regression models adjusting for age, sex and BMI
-(- Additionally: Exploratory examination of genotype effects)
 
 ## 6. Methods Overview
 - Programming language: Python
-- Libraries: pandas, numpy, matplotlib, seaborn, statsmodels
+- Libraries: pandas, numpy, matplotlib, seaborn
 
 ## 7. Limitations
 Among others:
@@ -58,9 +56,3 @@ Among others:
 - Medication status and disease duration are not available
 - Peripheral BDNF may not directly reflect central nervous system levels
 - Sample size limits statistical power
-
-TODO:
--explain what BDNF is and what the "normal" concentration is + what the measurement in the dataset is (mg?)
--01 -> BMI plot
--01 -> relationship plot between columns
--01 -> summary of viewed data
